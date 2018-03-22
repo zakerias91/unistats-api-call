@@ -18,7 +18,7 @@ Website: https://unistats.ac.uk/
 Data portal: http://dataportal.unistats.ac.uk/
 
 ## Instructions
-In the unistats-api-call.py file replace ```YOUR_ACCESS_TOKEN``` with your access token. If you do not have an access token, you can register for one [here](http://dataportal.unistats.ac.uk/). Replace ```YOUR_PASSWORD``` with your password; under current guidance the password can be anything.
+In the unistats-api-call.py file replace ```YOUR_ACCESS_TOKEN``` with your access token. If you do not have an access token, you can register for one [here](http://dataportal.unistats.ac.uk/). Replace ```YOUR_PASSWORD``` with your password; under current guidance this can be anything.
 
 ```
 username = "YOUR_ACCESS_TOKEN"
