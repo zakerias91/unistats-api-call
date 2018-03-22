@@ -7,7 +7,7 @@ top_level_url = "https://data.unistats.ac.uk/api/v4/KIS/Institution/YOUR_UKPRN.Y
 def auth():
 
     # Access token and password
-    username = "YOUR_ACCESS_TOKEN" #YOUR_ACCESS_TOKEN
+    username = "YOUR_ACCESS_TOKEN"
     password = "YOUR_PASSWORD"
     
     password_mgr = urllib.request.HTTPPasswordMgrWithDefaultRealm()
